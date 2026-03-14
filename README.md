@@ -1,3 +1,3 @@
-# pirate-react-30
+# 30-days-react
 
-This document will hold my learning wrt to React and NextJs
+30 days react journey — learning React and NextJs
